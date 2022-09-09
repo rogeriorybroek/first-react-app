@@ -1,5 +1,5 @@
 import Container from '@mui/material/Container'
-import {makeStyles} from '@mui/styles'
+import makeStyles from '@mui/styles/makeStyles'
 
 import Header from '../partials/Header/Header'
 
